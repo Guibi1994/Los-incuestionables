@@ -4,13 +4,13 @@ El presente proyecto busca realizar un análisis detallado de las declaraciones 
 
 -   Copia digital de la declaración de renta.
 
--   Publicación poactiva de la declaración de bienes y rentas y regitro de conflicots de ínteres.
+-   Publicación proactiva de la declaración de bienes y rentas y regitro de conflicots de ínteres.
 
 La discriminación entre estos documentos y la periodicidad bajo la cual tiene que ser aportados se encuetran en los artículos de *2do* y *3ro* (respectivamente) de la citada ley. Adicionalmente, estos documentos estan disuestos en el portal de la Función Pública, específicamente en el [Aplicativo por la Integridad Pública](https://www.funcionpublica.gov.co/fdci/ "haga click aquí para entrar al aplicativo") en donde pueden consultarse.
 
 ## I. Análisis inicial (generalidades)
 
-En Colombia las declaraciones de renta se presentan el año subsiguietne: Es decir, la declaracion de renta del 2019 se presenta en el año 2020. De este modo dado que la Ley en cuestion entro en vigencia el 30 de diciembre de 2019, cada congresista (y en general cada funcionario y/o persona obligada por esta ley) debería tener al menos 2 registros de cada uno de los documetnos antes mencioandos. (los regustros del 2020 y 2021, en donde se registran las rentas, bienes y conflictos de interes de los años 2019 y 2020 respectivamente). Esto, teniendo en cuenta la fecha del presente análisis.
+En Colombia las declaraciones de renta se presentan el año subsiguietne: Es decir, la declaracion de renta del 2019 se presenta en el año 2020. De este modo dado que la Ley en cuestion entro en vigencia el 30 de diciembre de 2019, cada congresista (y en general cada funcionario y/o persona obligada por esta ley) debería tener al menos 3 registros de cada uno de los documetnos antes mencioandos. (los registros del 2019, 2020 y 2021, en donde se registran las rentas, bienes y conflictos de interes de los años 2018, 2019 y 2020 respectivamente). Esto, teniendo en cuenta la fecha del presente análisis.
 
 Otra aspecto importante es que en el artículo 2 parágrado 1 de la Ley 2013 de 2019, estabelce que este registro es necesario tanto para la posesión en el cargo como para el ejercimiento y el retiro del mismo.
 

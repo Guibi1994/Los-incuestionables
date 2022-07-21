@@ -15,3 +15,11 @@ En Colombia las declaraciones de renta se presentan el año subsiguietne: Es dec
 Otra aspecto importante es que en el artículo 2 parágrado 1 de la Ley 2013 de 2019, estabelce que este registro es necesario tanto para la posesión en el cargo como para el ejercimiento y el retiro del mismo.
 
 -   ***PARÁGRAFO  1.** La publicación de esta información será requisito para posesionarse, ejercer y retirarse del cargo. A quienes no aplica el ingreso y retiro del cargo, será requisito antes, durante y al término del ejercicio de la función pública, prestación de servicios públicos o administración de bienes o recursos públicos*.
+
+## Notas
+
+-   Número de radicado derecho de petición dian: 202282140100081585 (21 jul 2022) - [consultar aquí](https://muisca.dian.gov.co/WebSolicitudesexternas/DefInicioSolicitudNS.faces)
+
+-   Derecho de petición sobre cédulas, partidos y votos de congresistas electos 2018-2022 y 2022-2026 fue enviado el 20 jul 2022.
+
+# 

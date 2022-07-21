@@ -6,8 +6,8 @@ library(ggplot2)
 options(scipen = 100)
 
 
-a0_DIAN <- pdf_text("1_datos/pureba_DIAN.pdf") %>% 
-  str_split(., "\\s{4,}", simplify = T) %>% 
+a0_DIAN <- pdf_text("1_datos/pruebas_2019.pdf") %>% 
+  str_split(., "\n", simplify = T) %>% 
   as.data.frame()
 
 
@@ -16,7 +16,7 @@ a0_DIAN <- pdf_text("1_datos/pureba_DIAN.pdf") %>%
 a1_reporte <- data.frame(
   # Cedula o ID de la persona
   id_persona = as.numeric(str_remove_all(a0_DIAN$V4, "\\s")),
-  # ID del formulario DIAN
+  # ID del formulario DIAN  
   id_formulario_DIAN = as.numeric(a0_DIAN$V3),
   # Año de la declaración
   year = as.integer(str_sub(a0_DIAN$V133, 1,4)),

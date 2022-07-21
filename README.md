@@ -1,6 +1,6 @@
 # Los incuestionables
 
-El presente proyecto busca realizar un análisis detallado de las declaraciones de renta de los congresistas de Colombia, de cara a lo establecido en la [Ley 2013 de 2019](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=104572 "haga clic acá para ver la ley") bajo la cual se obliga, entre otros funciones del estado, a cada congresita a entregar anualmente ante la Función Pública los siguientes documentos:
+El presente proyecto busca realizar un análisis detallado de las declaraciones de renta de los congresistas de Colombia, de cara a lo establecido en la [Ley 2013 de 2019](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=104572 "haga clic acá para ver la ley") bajo la cual se obliga, entre otros funciones del estado, a cada congresita a entregar **anualmente** ante la Función Pública los siguientes documentos:
 
 -   Copia digital de la declaración de renta.
 

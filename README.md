@@ -22,4 +22,24 @@ Otra aspecto importante es que en el artículo 2 parágrado 1 de la Ley 2013 de 
 
 -   Derecho de petición sobre cédulas, partidos y votos de congresistas electos 2018-2022 y 2022-2026 fue enviado el 20 jul 2022.
 
+# Estado (`r Sys.Date()` )
+
+-   Se extrajo la base cruda del portal de Función Pública
+
+-   Se econtro lo siguiente respecto a estos registros:
+
+    -   Casi todos los regstros tiene los tres documentos para el primer año en el que se emitió la ley 2013 de 2019. Estos archivos estan por lo general en un archivo .*zip* con nombres regulares.
+
+    -   No todas las declaraciones de renta estan en PDF digital, algunas son PDF de imágenes capturadas con el celular
+
+    -   Las declaraciones juramentadas tienden (en su mayoria) a seguir un formáto único. Lo mismo sucede con las declaraciones de renta, pues son formatos aparentemente regulares de la DIAN. Esto quiere deicr que es necesario realizar un algórimo individual para cada año de análisis. Es necesario precaución con formatos digitales aprenemente iguales pero con diferncias pequeñas que pueden afectar el desempeño del algóritmo de extracción.
+
+    -   Se enviaron los derechos de petición sobre las céudulas y partidos de los congresistas al Congreso de la República y a la Registraduria nacional. Tambien se envio derecho de petición a la DIAN sobre las declraciones de renta oficales y digitales de los congresistas electos de los últimos dos periodos legislativos.
+
+    -   Se realizó el webscrapping de la página del senado. Aunque preferentemente se usara la información conseguida a través de los derechos de petición, el algórimo puede ser la base para extraer información sobre proyectos de ley.
+
+zz
+
+# 
+
 # 
